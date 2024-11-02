@@ -7,7 +7,7 @@ This is a project I made during my dual studies of electrical engineering. It us
 ![Gen98-3](https://github.com/user-attachments/assets/183d9e8f-d45e-4c0b-8e85-d5f92acb6fd0)
 
 
-## Examplatory resulting networks
+## Example networks
 <img width="1050" alt="5_HN_ET_rt3_3" src="https://github.com/user-attachments/assets/8613a66f-928f-47eb-a65f-e7be14ff7a9b">
 <img width="1050" alt="5_HN_ET_rt3_1" src="https://github.com/user-attachments/assets/5af9ba57-c68a-466f-a1cd-c056a3aaaa09">
 
